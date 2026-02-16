@@ -31,4 +31,4 @@ While the core renamer logic is private, we welcome feedback and bug reports in 
 
 ## 📄 License
 
-Simplex is released under the [MIT License](LICENSE).
+Simplex is released under a personal use license. See the [LICENSE.md](LICENSE.md) file for details.
